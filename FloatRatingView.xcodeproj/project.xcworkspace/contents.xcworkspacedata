@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:FloatRating.xcodeproj">
+      location = "self:FloatRatingView.xcodeproj">
    </FileRef>
 </Workspace>
