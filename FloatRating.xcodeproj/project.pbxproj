@@ -12,7 +12,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0AD96AA922AF85E700D6C439 /* FloatRating.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FloatRating.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0AD96AA922AF85E700D6C439 /* FloatRatingView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = FloatRatingView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AD96AAC22AF85E700D6C439 /* FloatRating.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FloatRating.h; sourceTree = "<group>"; };
 		0AD96AAD22AF85E700D6C439 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0AD96AB422AF86A300D6C439 /* FloatRatingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FloatRatingView.swift; sourceTree = SOURCE_ROOT; };
@@ -40,7 +40,7 @@
 		0AD96AAA22AF85E700D6C439 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0AD96AA922AF85E700D6C439 /* FloatRating.framework */,
+				0AD96AA922AF85E700D6C439 /* FloatRatingView.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -69,9 +69,9 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		0AD96AA822AF85E700D6C439 /* FloatRating */ = {
+		0AD96AA822AF85E700D6C439 /* FloatRatingView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0AD96AB122AF85E700D6C439 /* Build configuration list for PBXNativeTarget "FloatRating" */;
+			buildConfigurationList = 0AD96AB122AF85E700D6C439 /* Build configuration list for PBXNativeTarget "FloatRatingView" */;
 			buildPhases = (
 				0AD96AA422AF85E700D6C439 /* Headers */,
 				0AD96AA522AF85E700D6C439 /* Sources */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = FloatRating;
+			name = FloatRatingView;
 			productName = FloatRating;
-			productReference = 0AD96AA922AF85E700D6C439 /* FloatRating.framework */;
+			productReference = 0AD96AA922AF85E700D6C439 /* FloatRatingView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0AD96AA822AF85E700D6C439 /* FloatRating */,
+				0AD96AA822AF85E700D6C439 /* FloatRatingView */,
 			);
 		};
 /* End PBXProject section */
@@ -328,7 +328,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0AD96AB122AF85E700D6C439 /* Build configuration list for PBXNativeTarget "FloatRating" */ = {
+		0AD96AB122AF85E700D6C439 /* Build configuration list for PBXNativeTarget "FloatRatingView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0AD96AB222AF85E700D6C439 /* Debug */,
